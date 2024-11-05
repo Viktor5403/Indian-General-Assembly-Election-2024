@@ -12,6 +12,9 @@
 9. [References](#references)
 
 ## Project Overview
+
+![image](https://github.com/user-attachments/assets/c61a4382-d81f-40e7-8206-8337a3db10e7)
+
 This project aims to analyze the data from India's general elections to gain insights into voter demographics, voting patterns, candidate performance, and other factors influencing election outcomes. The analysis is expected to reveal trends such as voter turnout, the distribution of votes across regions, and key factors that affect election results.
 
 ## Data Source
