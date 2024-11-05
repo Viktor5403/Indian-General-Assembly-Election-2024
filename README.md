@@ -1,4 +1,4 @@
-# India General Election Analysis
+# India General Election 2024 Analysis
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
